@@ -1,0 +1,5 @@
+QMAKE_PRL_BUILD_DIR = D:/lucky/yibc/build-qtrpc-Desktop_Qt_5_12_8_MinGW_64_bit-Release/qtrpc
+QMAKE_PRO_INPUT = qtrpc.pro
+QMAKE_PRL_TARGET = libQt5Rpcd.a
+QMAKE_PRL_CONFIG = lex yacc debug exceptions depend_includepath testcase_targets import_plugins import_qpa_plugin windows file_copies qmake_use qt warn_on link_prl debug_and_release debug_and_release_target precompile_header shared no_plugin_manifest win32 mingw gcc copy_dir_files debug DebugBuild Debug build_pass qtquickcompiler debug DebugBuild Debug build_pass c++11 create_prl debug_and_release build_all skip_target_version_ext debug DebugBuild Debug build_pass have_target dll no_plist exclusive_builds debug_info no_autoqmake thread moc resources
+QMAKE_PRL_VERSION = 5.12.8

@@ -1,0 +1,15 @@
+QT.rpc.VERSION = 5.12.8
+QT.rpc.name = QtRpc
+QT.rpc.module = Qt5Rpc
+QT.rpc.libs = $$QT_MODULE_LIB_BASE
+QT.rpc.includes = $$QT_MODULE_INCLUDE_BASE $$QT_MODULE_INCLUDE_BASE/QtRpc
+QT.rpc.frameworks =
+QT.rpc.bins = $$QT_MODULE_BIN_BASE
+QT.rpc.depends = core
+QT.rpc.uses =
+QT.rpc.module_config = v2
+QT.rpc.DEFINES = QT_RPC_LIB
+QT.rpc.enabled_features =
+QT.rpc.disabled_features =
+QT_CONFIG +=
+QT_MODULES += rpc
