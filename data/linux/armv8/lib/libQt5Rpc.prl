@@ -1,0 +1,5 @@
+QMAKE_PRL_BUILD_DIR = /home/lucky/Desktop/build-qtrpc-Desktop_Qt_5_12_12_GCC_64bit-Release/qtrpc
+QMAKE_PRO_INPUT = qtrpc.pro
+QMAKE_PRL_TARGET = libQt5Rpc.so.5.12.12
+QMAKE_PRL_CONFIG = lex yacc exceptions depend_includepath testcase_targets import_plugins import_qpa_plugin file_copies qmake_use qt warn_on release link_prl incremental shared release linux unix posix gcc qtquickcompiler c++11 create_prl have_target dll thread moc resources
+QMAKE_PRL_VERSION = 5.12.12
