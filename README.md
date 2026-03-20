@@ -76,7 +76,7 @@ QT += qrpc
 
 注册依赖 **自定义 MOC 工具**，使用方式如下：
 
-1. 下载对应版本的 moc 工具：[moc](https://gitee.com/yi_luckys/qt-moc-rpc)
+1. 下载对应版本的 moc 工具：[moc](https://github.com/Starry-Oceaning/qt-moc-rpc)
 2. 将下载的 moc 替换 Qt 安装目录下 `bin` 目录中的现有 `moc`
 3. 在编译项目时，moc 会自动生成注册代码，无需手动注册
 
